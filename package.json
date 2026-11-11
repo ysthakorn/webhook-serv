@@ -1,0 +1,16 @@
+{
+  "name": "webhook-serv",
+  "version": "1.0.0",
+  "description": "LINE Group Tracker & Webhook Server for 91 LINE Groups",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "line",
+    "webhook",
+    "group-tracker"
+  ],
+  "author": "",
+  "license": "ISC"
+}
